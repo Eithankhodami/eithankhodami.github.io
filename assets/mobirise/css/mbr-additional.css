@@ -2675,24 +2675,3 @@ a {
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
-.cid-ts5AzX5kow {
-  padding-top: 3rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-.cid-ts5AzX5kow .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-.cid-ts5AzX5kow form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-ts5AzX5kow form .mbr-section-btn .btn {
-  display: inline-flex;
-}
-@media (max-width: 991px) {
-  .cid-ts5AzX5kow form .mbr-section-btn .btn {
-    width: 100%;
-  }
-}
