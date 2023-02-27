@@ -1932,6 +1932,119 @@ a {
     left: -1rem;
   }
 }
+.cid-tx3M0hmUuu {
+  padding-top: 9rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-tx3M0hmUuu .counter-container ul {
+  margin: 0;
+  list-style: none;
+  padding-left: 2.5rem;
+}
+.cid-tx3M0hmUuu .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+  position: relative;
+  padding-left: 1rem;
+}
+.cid-tx3M0hmUuu .counter-container ul li:before {
+  position: absolute;
+  left: -40px;
+  content: "";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  background-color: #6592e6;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-top: 5px;
+  content: "✓";
+}
+.cid-tx3M0hmUuu .mbr-section-title {
+  color: #4479d9;
+}
+.cid-tx3NXpTTk5 {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-tx3NXpTTk5 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tx3NXpTTk5 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tx3NXpTTk5 ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-tx3NXpTTk5 li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-tx3NXpTTk5 ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
+.cid-tx3NXpTTk5 H3 {
+  color: #4479d9;
+}
+.cid-tx3PsTwjri {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-tx3PsTwjri .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tx3PsTwjri .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tx3PsTwjri ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-tx3PsTwjri li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-tx3PsTwjri ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
+.cid-tx3PsTwjri H3 {
+  color: #4479d9;
+}
+.cid-tx3PsTwjri .list {
+  color: #000000;
+}
 .cid-ts5nxsc52M {
   z-index: 1000;
   width: 100%;
