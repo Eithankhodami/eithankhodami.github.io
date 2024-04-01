@@ -1,0 +1,30 @@
+/* Custom styles */
+.profile {
+    background-color: rgba(128, 128, 128, 0.377);
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .headline {
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .paragraph {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .small-icon {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+  }
+
+  .grey-background {
+    background-color: #f0f0f0; /* adjust color as needed */
+    padding: 20px; /* adjust as needed */
+  }
